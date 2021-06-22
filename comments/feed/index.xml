@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
+	Bình luận cho Epic Store	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://https://kleerkuro.github.io/hoangluu</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 10 Jun 2021 09:54:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jun 2021 07:07:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		Phản hồi cho Trang chủ bởi Một người bình luận WordPress		</title>
 		<link>http://https://kleerkuro.github.io/hoangluu/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>

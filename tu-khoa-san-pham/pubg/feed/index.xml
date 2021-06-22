@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pubg &#8211; Epic Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/pubg/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://kleerkuro.github.io/hoangluu</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 22 Jun 2021 05:04:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Tài khoản PlayerUnknown&#8217;s Battlegrounds PUBG</title>
+		<link>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 07:04:52 +0000</pubDate>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=87</guid>
+
+					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
+<ul>
+ 	<li>Nhập mã <strong>DIVINE</strong><strong> </strong>giảm thêm <strong>10%</strong> tối đa 5.000đ khi thanh toán hoặc mua siêu tốc với <strong>VNPAY-QR</strong>. <a href="https://help.divineshop.vn/uu-dai/uu-dai-vnpay" target="_blank" rel="noopener">Xem chi tiết</a></li>
+ 	<li>Ưu đãi khủng <strong>30%</strong> lên tới <strong>50.000 đ</strong> khi sử dụng Ví VNPAY. <a href="https://help.divineshop.vn/uu-dai/uu-dai-khung-30-khi-su-dung-vi-vnpay#uu-dai-cho-nguoi-dung-vi-moi" target="_blank" rel="noopener">Xem chi tiết</a></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h2>VỀ TRÒ CHƠI NÀY</h2>
+<p>PLAYERUNKNOWN, tên thật là Brendan Greene, là người khai sinh ra thể loại đấu súng sinh tồn và là cha đẻ của chế độ chơi này trong dòng game ARMA cũng như H1Z1: King of the Kill. Tại PUBG Corp., Greene làm việc cùng với đội ngũ các nhà phát triển game kì cựu để biến PUBG trở thành tựa game bắn súng sinh tồn tốt nhất trên thị trường.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

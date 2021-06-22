@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>user1 &#8211; My WordPress</title>
+	<title>user1 &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>http://https://kleerkuro.github.io/hoangluu</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 10 Jun 2021 09:54:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jun 2021 07:07:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Chào tất cả mọi người!</title>
+		<title>Trang chủ</title>
 		<link>http://https://kleerkuro.github.io/hoangluu/khong-phan-loai/chao-moi-nguoi/</link>
 					<comments>http://https://kleerkuro.github.io/hoangluu/khong-phan-loai/chao-moi-nguoi/#comments</comments>
 		
@@ -29,10 +29,10 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?p=1</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
-										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<form role="search" method="get" action="http://https://kleerkuro.github.io/hoangluu/" class="wp-block-search__button-outside wp-block-search__icon-button alignright wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label">Tìm kiếm</label><div class="wp-block-search__inside-wrapper" style="width: 100%;"><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder="" required /><button type="submit"class="wp-block-search__button has-icon"><svg id="search-icon" class="search-icon" viewBox="0 0 24 24" width="24" height="24">
+			        <path d="M13.5 6C10.5 6 8 8.5 8 11.5c0 1.1.3 2.1.9 3l-3.4 3 1 1.1 3.4-2.9c1 .9 2.2 1.4 3.6 1.4 3 0 5.5-2.5 5.5-5.5C19 8.5 16.5 6 13.5 6zm0 9.5c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"></path>
+			    </svg></button></div></form>]]></content:encoded>
 					
 					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
