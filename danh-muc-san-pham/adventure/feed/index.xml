@@ -10,7 +10,7 @@
 <channel>
 	<title>Adventure &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/adventure/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://kleerkuro.github.io/hoangluu</link>
+	<link>/https://kleerkuro.github.io/hoangluu/cua-hang</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 22 Jun 2021 05:04:41 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,14 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Rust</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/rust/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/rust/#respond</comments>
+		<link>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/rust/</link>
+					<comments>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/rust/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:42:13 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql461c_7f3_5.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=112</guid>
+				<guid isPermaLink="false">/https://kleerkuro.github.io/hoangluu/cua-hang/?post_type=product&#038;p=112</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -41,19 +39,19 @@
 <p>Do whatever it takes to survive.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/rust/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/rust/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Left 4 Dead 2</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/left-4-dead-2/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/left-4-dead-2/#respond</comments>
+		<link>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/</link>
+					<comments>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:29:57 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=100</guid>
+				<guid isPermaLink="false">/https://kleerkuro.github.io/hoangluu/cua-hang/?post_type=product&#038;p=100</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -77,7 +75,7 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/left-4-dead-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
