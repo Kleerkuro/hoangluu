@@ -10,7 +10,7 @@
 <channel>
 	<title>l4d2 &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/l4d2/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://kleerkuro.github.io/hoangluu/cua-hang</link>
+	<link>http://https://kleerkuro.github.io/hoangluu/cua-hang</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 22 Jun 2021 05:04:41 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Left 4 Dead 2</title>
-		<link>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/</link>
-					<comments>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:29:57 +0000</pubDate>
-				<guid isPermaLink="false">/https://kleerkuro.github.io/hoangluu/cua-hang/?post_type=product&#038;p=100</guid>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/cua-hang/?post_type=product&#038;p=100</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -50,7 +50,7 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/cua-hang/sản%20phẩm/left-4-dead-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
