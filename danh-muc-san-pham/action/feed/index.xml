@@ -1,5 +1,3 @@
-<br />
-<b>Warning</b>:  mysqli_query(): (HY000/29): File 'C:\xampp\tmp\#sql2a40_741_0.MAD' not found (Errcode: 13 &quot;Permission denied&quot;) in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -12,7 +10,7 @@
 <channel>
 	<title>Action &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/action/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://kleerkuro.github.io/hoangluu</link>
+	<link>./../../../index.html</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 22 Jun 2021 05:04:54 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Rust</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/rust/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/rust/#respond</comments>
+		<link>./../../../sản%20phẩm/rust/index.html</link>
+					<comments>./../../../sản%20phẩm/rust/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:42:13 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=112</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -41,19 +39,19 @@
 <p>Do whatever it takes to survive.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/rust/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../sản%20phẩm/rust/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Left 4 Dead 2</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/left-4-dead-2/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/left-4-dead-2/#respond</comments>
+		<link>./../../../sản%20phẩm/left-4-dead-2/index.html</link>
+					<comments>./../../../sản%20phẩm/left-4-dead-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:29:57 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=100</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=100</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -77,19 +75,19 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/left-4-dead-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../sản%20phẩm/left-4-dead-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tài khoản PlayerUnknown&#8217;s Battlegrounds PUBG</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/#respond</comments>
+		<link>./../../../sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/index.html</link>
+					<comments>./../../../sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 07:04:52 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=87</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=87</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -100,7 +98,7 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 <p>PLAYERUNKNOWN, tên thật là Brendan Greene, là người khai sinh ra thể loại đấu súng sinh tồn và là cha đẻ của chế độ chơi này trong dòng game ARMA cũng như H1Z1: King of the Kill. Tại PUBG Corp., Greene làm việc cùng với đội ngũ các nhà phát triển game kì cựu để biến PUBG trở thành tựa game bắn súng sinh tồn tốt nhất trên thị trường.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
