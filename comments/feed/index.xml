@@ -11,7 +11,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 17 Jun 2021 07:07:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 10:22:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,19 +19,15 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Trang chủ bởi Một người bình luận WordPress		</title>
-		<link>./../../khong-phan-loai/chao-moi-nguoi/index.html#comment-1</link>
+		Phản hồi cho Rust bởi user1		</title>
+		<link>./../../sản%20phẩm/rust/index.html#comment-2</link>
 
-		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 09:54:08 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 10:06:39 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=112#comment-2</guid>
 
-					<description><![CDATA[Xin chào, đây là một bình luận
-Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
-Avatar của người bình luận sử dụng &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Xin chào, đây là một bình luận<br />
-Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.<br />
-Avatar của người bình luận sử dụng <a href="https://gravatar.com/">Gravatar</a>.</p>
+					<description><![CDATA[ok]]></description>
+			<content:encoded><![CDATA[<p>ok</p>
 ]]></content:encoded>
 		
 			</item>

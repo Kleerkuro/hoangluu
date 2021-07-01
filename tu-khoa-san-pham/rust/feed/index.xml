@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rust &#8211; Epic Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/rust/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 01 Jul 2021 10:22:43 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Rust</title>
+		<link>./../../../sản%20phẩm/rust/index.html</link>
+					<comments>./../../../sản%20phẩm/rust/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2021 07:42:13 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
+
+					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
+<ul>
+ 	<li>Nhập mã <strong>DIVINE</strong><strong> </strong>giảm thêm <strong>10%</strong> tối đa 5.000đ khi thanh toán hoặc mua siêu tốc với <strong>VNPAY-QR</strong>. <a href="https://help.divineshop.vn/uu-dai/uu-dai-vnpay" target="_blank" rel="noopener">Xem chi tiết</a></li>
+ 	<li>Ưu đãi khủng <strong>30%</strong> lên tới <strong>50.000 đ</strong> khi sử dụng Ví VNPAY. <a href="https://help.divineshop.vn/uu-dai/uu-dai-khung-30-khi-su-dung-vi-vnpay#uu-dai-cho-nguoi-dung-vi-moi" target="_blank" rel="noopener">Xem chi tiết</a></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h2>VỀ TRÒ CHƠI NÀY</h2>
+<p>The only aim in Rust is to survive.</p>
+<p>To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town.</p>
+<p>Do whatever it takes to survive.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../sản%20phẩm/rust/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

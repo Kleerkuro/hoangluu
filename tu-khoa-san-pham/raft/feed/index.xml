@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>raft &#8211; Epic Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/raft/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 01 Jul 2021 10:25:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Raft</title>
+		<link>./../../../sản%20phẩm/raft/index.html</link>
+					<comments>./../../../sản%20phẩm/raft/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 09:34:19 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=203</guid>
+
+					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
+<ul>
+ 	<li>Nhập mã <strong>DIVINE</strong><strong> </strong>giảm thêm <strong>10%</strong> tối đa 5.000đ khi thanh toán hoặc mua siêu tốc với <strong>VNPAY-QR</strong>. <a href="https://help.divineshop.vn/uu-dai/uu-dai-vnpay" target="_blank" rel="noopener">Xem chi tiết</a></li>
+ 	<li>Ưu đãi khủng <strong>30%</strong> lên tới <strong>50.000 đ</strong> khi sử dụng Ví VNPAY. <a href="https://help.divineshop.vn/uu-dai/uu-dai-khung-30-khi-su-dung-vi-vnpay#uu-dai-cho-nguoi-dung-vi-moi" target="_blank" rel="noopener">Xem chi tiết</a></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h2>VỀ TRÒ CHƠI NÀY</h2>
+<p><strong>By yourself or with friends, your mission is to survive an epic oceanic adventure across<br />
+a perilous sea! Gather debris to survive, expand your raft and be wary of the dangers of<br />
+the ocean!</strong></p>
+<p>Trapped on a small raft with nothing but a hook made of old plastic, players awake on a vast,<br />
+blue ocean totally alone and with no land in sight! With a dry throat and an empty stomach,<br />
+survival will not be easy!</p>
+<p>Raft throws you and your friends into an epic adventure out on the big open sea, with the<br />
+objective to stay alive, gather resources and build yourself a floating home worthy of<br />
+survival.</p>
+<p>Resources are tough to come by at sea: Players will have to make sure to catch whatever debris floats by using their trusty hook and when possible, scavenge the reefs beneath the waves and the islands above.<br />
+However, thirst and hunger is not the only danger in the ocean… watch out for the man-<br />
+eating shark determined to end your voyage!</p>
+<p>Features:<br />
+● Multiplayer! Survive by yourself or with friends in online co-op!<br />
+● Hook! Use your hook to catch debris floating by.<br />
+● Craft! Build survival equipment, weapons, crop plots and more to help you stay alive!<br />
+● Build! Expand your raft from a simple wreckage to a buoyant mansion.<br />
+● Research! Learn new things to craft in the research table.<br />
+● Navigate! Sail your raft towards new places!<br />
+● Dive! Drop anchor and explore the depths for more resources.<br />
+● Fight! Defend your raft from the dangers of the ocean.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../sản%20phẩm/raft/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

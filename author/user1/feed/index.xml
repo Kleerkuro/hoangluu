@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 17 Jun 2021 07:07:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 11:13:15 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,157 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Trang chủ</title>
-		<link>./../../../khong-phan-loai/chao-moi-nguoi/index.html</link>
-					<comments>./../../../khong-phan-loai/chao-moi-nguoi/index.html#comments</comments>
+		<title>Epic Store Summer Sale 2021</title>
+		<link>./../../../khong-phan-loai/epic-store-summer-sale-2021/index.html</link>
+					<comments>./../../../khong-phan-loai/epic-store-summer-sale-2021/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 09:54:08 +0000</pubDate>
+		<pubDate>Thu, 01 Jul 2021 10:36:42 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=258</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<form role="search" method="get" action="./../../../index.html" class="wp-block-search__button-outside wp-block-search__icon-button alignright wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label">Tìm kiếm</label><div class="wp-block-search__inside-wrapper" style="width: 100%;"><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder="" required /><button type="submit"class="wp-block-search__button has-icon"><svg id="search-icon" class="search-icon" viewBox="0 0 24 24" width="24" height="24">
-			        <path d="M13.5 6C10.5 6 8 8.5 8 11.5c0 1.1.3 2.1.9 3l-3.4 3 1 1.1 3.4-2.9c1 .9 2.2 1.4 3.6 1.4 3 0 5.5-2.5 5.5-5.5C19 8.5 16.5 6 13.5 6zm0 9.5c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"></path>
-			    </svg></button></div></form>]]></content:encoded>
+					<description><![CDATA[ĐÃ ĐẾN LÚC KIẾN TẠO SỐ PHẬN Hẳn nhiên bạn là người hùng. Ai cũng nói vậy. Nhưng kiểu anh hùng nào chứ? Ưu đãi mùa hè năm nay không chỉ là chương trình siêu giảm giá sâu thông thường đâu nhé &#8211; bạn sắp phải đối mặt với một loạt truyện ngắn, mỗi câu [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="258" class="elementor elementor-258" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-24be98bc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24be98bc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a89eee6" data-id="a89eee6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-21ff16c9 elementor-widget elementor-widget-text-editor" data-id="21ff16c9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<h4><strong><!-- wp:paragraph --></strong></h4>
+<h4><strong>ĐÃ ĐẾN LÚC</strong></h4>
+<h4><strong><!-- /wp:paragraph --></strong></h4>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4e7d18 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4e7d18" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-536524f" data-id="536524f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-153766a elementor-widget elementor-widget-heading" data-id="153766a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><span style="color: rgb(255, 251, 236); font-family: &quot;Motiva Sans&quot;, sans-serif; font-size: 80px; font-weight: 400; white-space: normal; background-color: rgb(68, 46, 49);">KIẾN TẠO SỐ PHẬN</span></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-035de2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="035de2f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5a61391" data-id="5a61391" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-67aaf07 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="67aaf07" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a987255 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a987255" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9c897a4" data-id="9c897a4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-43d457b elementor-widget elementor-widget-text-editor" data-id="43d457b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="summersale2021story_HeaderDesc_3Eeti summersale2021story_Noto_1S5tj">Hẳn nhiên bạn là người hùng. Ai cũng nói vậy. Nhưng kiểu anh hùng nào chứ? Ưu đãi mùa hè năm nay không chỉ là chương trình siêu giảm giá sâu thông thường đâu nhé &#8211; bạn sắp phải đối mặt với một loạt truyện ngắn, mỗi câu chuyện kết thúc bằng một lựa chọn sẽ giúp phân loại bạn là loại anh hùng nào.</div>
+<div class="summersale2021story_HeaderDesc_3Eeti summersale2021story_Noto_1S5tj">14 trang truyện Kiến Tạo Số Phận trong dịp ưu đãi, mỗi trang là 2 lựa chọn và bạn sẽ nhận được hình dán động tùy theo quyết định của mình làm vật lưu niệm cho hành trình đã qua. Khi hoàn thành tất cả mẩu chuyện, bạn sẽ tự động nhận một trong năm huy hiệu phản ánh lựa chọn của mình.</div>
+<div class="summersale2021story_HeaderDesc_3Eeti summersale2021story_Noto_1S5tj">Quẹo lựa quẹo lựa! Tất cả vật phẩm phải được nhận trước 00:00 giờ VN ngày 9/7/2021, thời điểm kết thúc đợt ưu đãi mùa hè.</div>
+<h3 class="summersale2021story_HeaderIntro_3STDK summersale2021story_Noto_1S5tj"><strong>Bạn luôn biết mình là người hùng.</strong></h3>
+<h3 class="summersale2021story_HeaderIntro_3STDK summersale2021story_Noto_1S5tj"><strong>Đã đến lúc xem bạn thuộc kiểu anh hùng nào.</strong></h3>
+<h2><strong>Bạn sẽ làm gì tiếp theo?</strong></h2>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-68be0eb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68be0eb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be76b43" data-id="be76b43" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-df0ef94 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="df0ef94" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="1">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Hành động</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f01c63 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="1f01c63" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="2">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Phối hợp</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2fcba97 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="2fcba97" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="3">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Phiêu lưu</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ee69e1 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="3ee69e1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="4">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Nhiều người chơi</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1325000 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="1325000" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="5">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Kinh dị</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c256322 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="c256322" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="6">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">FPS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
-					<wfw:commentRss>./../../../khong-phan-loai/chao-moi-nguoi/feed/index.html</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>./../../../khong-phan-loai/epic-store-summer-sale-2021/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

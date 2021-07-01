@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rust instrument pack &#8211; Epic Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/rust-instrument-pack/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 01 Jul 2021 10:04:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Rust &#8211; Instruments Pack</title>
+		<link>./../../../sản%20phẩm/rust-instruments-pack/index.html</link>
+					<comments>./../../../sản%20phẩm/rust-instruments-pack/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 10:04:07 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=240</guid>
+
+					<description><![CDATA[VỀ NỘI DUNG NÀY Reveal your inner musician in the Instrument Pack for Rust &#8211; a collection of 10 new musical instruments! Lay down a beat with the Drum Kit, belt out a tune on the Piano and become popular with your friends with the Cowbell! These new instruments use a new range of notes [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>VỀ NỘI DUNG NÀY</h2>
+<p>Reveal your inner musician in the Instrument Pack for Rust &#8211; a collection of 10 new musical instruments!</p>
+<p>Lay down a beat with the Drum Kit, belt out a tune on the Piano and become popular with your friends with the Cowbell! These new instruments use a new range of notes letting you play a variety of music. Announce your presence while raiding with a trumpet or entertain your team with the new Jerry Can Guitar on long boat rides.</p>
+<p>Got a MIDI compatible keyboard or device? You can take your musical skills to the next level by plugging it in and playing the in-game instruments. Impress your friends!</p>
+<p>The pack includes:</p>
+<ul class="bb_ul">
+<li>Wheelbarrow Piano</li>
+<li>Junkyard Drum Kit</li>
+<li>Xylobones</li>
+<li>Plumber&#8217;s Trumpet</li>
+<li>Sousaphone</li>
+<li>Cowbell</li>
+<li>Canbourine</li>
+<li>Jerry Can Guitar</li>
+<li>Shovel Bass</li>
+<li>Pan Flute</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../sản%20phẩm/rust-instruments-pack/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

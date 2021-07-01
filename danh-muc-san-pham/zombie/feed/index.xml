@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/zombie/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 22 Jun 2021 05:04:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 10:24:16 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,40 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>The Forest</title>
+		<link>./../../../sản%20phẩm/the-forest/index.html</link>
+					<comments>./../../../sản%20phẩm/the-forest/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 09:58:01 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=229</guid>
+
+					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
+<ul>
+ 	<li>Nhập mã <strong>DIVINE</strong><strong> </strong>giảm thêm <strong>10%</strong> tối đa 5.000đ khi thanh toán bàng bằng <strong>VNPAY-QR</strong> hoặc mua siêu tốc với Mobile Banking. <a href="https://help.divineshop.vn/uu-dai/uu-dai-vnpay" target="_blank" rel="noopener">Xem chi tiết</a></li>
+ 	<li>Nhận<strong> </strong><strong>50.000đ</strong> khi tải ví <strong>VNPAY </strong>và thanh toán tại <strong>DIVINE</strong>. <a href="https://help.divineshop.vn/uu-dai/tai-vi-vnpay-san-vang-ngay-cung-divine" target="_blank" rel="noopener">Xem chi tiết</a></li>
+ 	<li>Nhận Voucher mua thẻ cào <strong>50% </strong>khi thanh toán bằng thẻ <strong>ATM</strong>. <a href="https://help.divineshop.vn/uu-dai/nhan-voucher-50-khi-thanh-toan-bang-the-atm" target="_blank" rel="noopener">Xem chi tiết</a></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h2>VỀ TRÒ CHƠI NÀY</h2>
+<p>As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.</p>
+<p>Build, explore, survive in this terrifying first person survival horror simulator.</p>
+<h2 class="bb_tag">Key features</h2>
+<p>Enter a living, breathing world, where every tree and plant can be chopped down. Below ground explore a vast network of caves and underground lakes.</p>
+<ul class="bb_ul">
+<li>Chop down trees to build a camp, or start a fire to keep warm. Scavenge food to keep yourself from starving.</li>
+<li>Build a small shelter or a large ocean side fortress. Lay traps and defences to keep a safe perimeter.</li>
+<li>Explore and build during the day. Defend your base at night. Craft weapons and tools. Bunker down during the evening or bring the fight directly to the enemy.</li>
+<li>Defend yourself against a clan of genetic mutant enemies that have beliefs, families, morals and that appear almost human.</li>
+<li>Use stealth to evade enemies, or engage them directly with crude weapons built from sticks and stones.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../sản%20phẩm/the-forest/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Left 4 Dead 2</title>
 		<link>./../../../sản%20phẩm/left-4-dead-2/index.html</link>
 					<comments>./../../../sản%20phẩm/left-4-dead-2/index.html#respond</comments>
