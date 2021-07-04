@@ -164,7 +164,9 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 07:04:52 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=87</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_2b5_e.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=87</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>

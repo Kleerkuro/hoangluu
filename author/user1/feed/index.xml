@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 01 Jul 2021 11:13:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 01:42:52 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -86,80 +86,6 @@
 <h3 class="summersale2021story_HeaderIntro_3STDK summersale2021story_Noto_1S5tj"><strong>Bạn luôn biết mình là người hùng.</strong></h3>
 <h3 class="summersale2021story_HeaderIntro_3STDK summersale2021story_Noto_1S5tj"><strong>Đã đến lúc xem bạn thuộc kiểu anh hùng nào.</strong></h3>
 <h2><strong>Bạn sẽ làm gì tiếp theo?</strong></h2>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-68be0eb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68be0eb" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be76b43" data-id="be76b43" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-df0ef94 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="df0ef94" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="1">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Hành động</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1f01c63 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="1f01c63" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="2">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Phối hợp</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-2fcba97 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="2fcba97" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="3">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Phiêu lưu</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3ee69e1 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="3ee69e1" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="4">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Nhiều người chơi</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1325000 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="1325000" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="5">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Kinh dị</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c256322 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="c256322" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button" id="6">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">FPS</span>
-		</span>
-					</a>
-		</div>
-				</div>
 				</div>
 					</div>
 		</div>
