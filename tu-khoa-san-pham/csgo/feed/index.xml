@@ -10,7 +10,7 @@
 <channel>
 	<title>csgo &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/csgo/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>http://https://kleerkuro.github.io/hoangluu</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 01 Jul 2021 09:43:28 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,14 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Counter-Strike: Global Prime Status Upgrade</title>
-		<link>./../../../sản%20phẩm/counter-strike-global-prime-status-upgrade/index.html</link>
-					<comments>./../../../sản%20phẩm/counter-strike-global-prime-status-upgrade/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/counter-strike-global-prime-status-upgrade/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/counter-strike-global-prime-status-upgrade/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:43:01 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_2ee_5.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=217</guid>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=217</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -54,7 +52,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/counter-strike-global-prime-status-upgrade/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/counter-strike-global-prime-status-upgrade/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

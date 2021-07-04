@@ -9,7 +9,7 @@
 	<title>
 	Bình luận cho Epic Store	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>http://https://kleerkuro.github.io/hoangluu</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 01 Jul 2021 10:22:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Phản hồi cho Rust bởi user1		</title>
-		<link>./../../sản%20phẩm/rust/index.html#comment-2</link>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/rust/#comment-2</link>
 
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 10:06:39 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=112#comment-2</guid>
+		<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=112#comment-2</guid>
 
 					<description><![CDATA[ok]]></description>
 			<content:encoded><![CDATA[<p>ok</p>

@@ -10,7 +10,7 @@
 <channel>
 	<title>Action &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/action/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>http://https://kleerkuro.github.io/hoangluu</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 01 Jul 2021 10:27:04 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>The Crew™ 2</title>
-		<link>./../../../sản%20phẩm/the-crew-2/index.html</link>
-					<comments>./../../../sản%20phẩm/the-crew-2/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/the-crew-2/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/the-crew-2/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:53:43 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=221</guid>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=221</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -49,19 +49,19 @@ Join four different motorsports families from around the country: street and pro
 The world of The Crew® 2 is fueled by the need to share your personal accomplishments and unique moments with friends and others – break records and be a pioneer! Every time you achieve something, it will be saved as a new challenge for other players, while you will be encouraged to surpass the feats of others. Capture and share all of your best moments with the press of a button.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/the-crew-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/the-crew-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>GTA Grand Theft Auto V: Premium Online Edition</title>
-		<link>./../../../sản%20phẩm/gta-grand-theft-auto-v-premium-online-edition/index.html</link>
-					<comments>./../../../sản%20phẩm/gta-grand-theft-auto-v-premium-online-edition/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/gta-grand-theft-auto-v-premium-online-edition/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/gta-grand-theft-auto-v-premium-online-edition/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:49:05 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219</guid>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=219</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -80,19 +80,23 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 <p>Special access content requires Rockstar Games Social Club account. Visit <a href="https://steamcommunity.com/linkfilter/?url=http://rockstargames.com/v/bonuscontent" target="_blank" rel="noopener">http://rockstargames.com/v/bonuscontent</a> for details</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/gta-grand-theft-auto-v-premium-online-edition/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/gta-grand-theft-auto-v-premium-online-edition/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Battlefield 4™</title>
-		<link>./../../../sản%20phẩm/battlefield-4/index.html</link>
-					<comments>./../../../sản%20phẩm/battlefield-4/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/battlefield-4/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/battlefield-4/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:39:28 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=215</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_6e0_9.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_6e0_a.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=215</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -117,19 +121,19 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/battlefield-4/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/battlefield-4/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rust</title>
-		<link>./../../../sản%20phẩm/rust/index.html</link>
-					<comments>./../../../sản%20phẩm/rust/index.html#comments</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/rust/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/rust/#comments</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:42:13 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=112</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -142,19 +146,19 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 <p>Do whatever it takes to survive.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/rust/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/rust/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Left 4 Dead 2</title>
-		<link>./../../../sản%20phẩm/left-4-dead-2/index.html</link>
-					<comments>./../../../sản%20phẩm/left-4-dead-2/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/left-4-dead-2/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/left-4-dead-2/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:29:57 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=100</guid>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=100</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -178,19 +182,19 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/left-4-dead-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/left-4-dead-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tài khoản PlayerUnknown&#8217;s Battlegrounds PUBG</title>
-		<link>./../../../sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/index.html</link>
-					<comments>./../../../sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/tai-khoan-playerunknowns-battlegrounds-pubg/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/tai-khoan-playerunknowns-battlegrounds-pubg/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 07:04:52 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=87</guid>
+				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=87</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -201,7 +205,7 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 <p>PLAYERUNKNOWN, tên thật là Brendan Greene, là người khai sinh ra thể loại đấu súng sinh tồn và là cha đẻ của chế độ chơi này trong dòng game ARMA cũng như H1Z1: King of the Kill. Tại PUBG Corp., Greene làm việc cùng với đội ngũ các nhà phát triển game kì cựu để biến PUBG trở thành tựa game bắn súng sinh tồn tốt nhất trên thị trường.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/tai-khoan-playerunknowns-battlegrounds-pubg/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/tai-khoan-playerunknowns-battlegrounds-pubg/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

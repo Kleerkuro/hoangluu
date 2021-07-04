@@ -10,7 +10,7 @@
 <channel>
 	<title>grand theft auto V &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/grand-theft-auto-v/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>http://https://kleerkuro.github.io/hoangluu</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 01 Jul 2021 09:54:45 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,14 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>GTA Grand Theft Auto V: Premium Online Edition</title>
-		<link>./../../../sản%20phẩm/gta-grand-theft-auto-v-premium-online-edition/index.html</link>
-					<comments>./../../../sản%20phẩm/gta-grand-theft-auto-v-premium-online-edition/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/product/gta-grand-theft-auto-v-premium-online-edition/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/product/gta-grand-theft-auto-v-premium-online-edition/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:49:05 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_6ff_4.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=219</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -45,7 +47,7 @@
 <p>Special access content requires Rockstar Games Social Club account. Visit <a href="https://steamcommunity.com/linkfilter/?url=http://rockstargames.com/v/bonuscontent" target="_blank" rel="noopener">http://rockstargames.com/v/bonuscontent</a> for details</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../sản%20phẩm/gta-grand-theft-auto-v-premium-online-edition/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/gta-grand-theft-auto-v-premium-online-edition/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

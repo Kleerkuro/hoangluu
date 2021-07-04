@@ -10,7 +10,7 @@
 <channel>
 	<title>Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>http://https://kleerkuro.github.io/hoangluu</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Sun, 04 Jul 2021 01:42:52 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Epic Store Summer Sale 2021</title>
-		<link>./../khong-phan-loai/epic-store-summer-sale-2021/index.html</link>
-					<comments>./../khong-phan-loai/epic-store-summer-sale-2021/index.html#respond</comments>
+		<link>http://https://kleerkuro.github.io/hoangluu/khong-phan-loai/epic-store-summer-sale-2021/</link>
+					<comments>http://https://kleerkuro.github.io/hoangluu/khong-phan-loai/epic-store-summer-sale-2021/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 10:36:42 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">./../index.html?p=258</guid>
+		<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?p=258</guid>
 
 					<description><![CDATA[ĐÃ ĐẾN LÚC KIẾN TẠO SỐ PHẬN Hẳn nhiên bạn là người hùng. Ai cũng nói vậy. Nhưng kiểu anh hùng nào chứ? Ưu đãi mùa hè năm nay không chỉ là chương trình siêu giảm giá sâu thông thường đâu nhé &#8211; bạn sắp phải đối mặt với một loạt truyện ngắn, mỗi câu [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="258" class="elementor elementor-258" data-elementor-settings="[]">
@@ -95,7 +95,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../khong-phan-loai/epic-store-summer-sale-2021/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/khong-phan-loai/epic-store-summer-sale-2021/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
