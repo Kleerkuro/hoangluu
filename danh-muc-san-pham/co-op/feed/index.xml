@@ -11,7 +11,7 @@
 	<title>Co-op &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/co-op/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Choose Your Game, Choose Your Way</description>
 	<lastBuildDate>Thu, 01 Jul 2021 10:27:04 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -163,9 +163,7 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:34:19 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_9a7_d.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=203</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=203</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>

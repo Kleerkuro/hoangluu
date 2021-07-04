@@ -11,7 +11,7 @@
 	<title>Chưa phân loại &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Choose Your Game, Choose Your Way</description>
 	<lastBuildDate>Thu, 01 Jul 2021 10:17:11 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -43,7 +43,9 @@
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 10:04:07 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=240</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_14a3_7.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=240</guid>
 
 					<description><![CDATA[VỀ NỘI DUNG NÀY Reveal your inner musician in the Instrument Pack for Rust &#8211; a collection of 10 new musical instruments! Lay down a beat with the Drum Kit, belt out a tune on the Piano and become popular with your friends with the Cowbell! These new instruments use a new range of notes [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h2>VỀ NỘI DUNG NÀY</h2>

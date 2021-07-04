@@ -10,7 +10,7 @@
 	Bình luận cho Epic Store	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Choose Your Game, Choose Your Way</description>
 	<lastBuildDate>Thu, 01 Jul 2021 10:22:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
