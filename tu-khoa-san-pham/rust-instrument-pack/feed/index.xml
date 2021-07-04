@@ -10,7 +10,7 @@
 <channel>
 	<title>Rust instrument pack &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/rust-instrument-pack/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://kleerkuro.github.io/hoangluu</link>
+	<link>./../../../index.html</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 01 Jul 2021 10:04:07 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Rust &#8211; Instruments Pack</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/product/rust-instruments-pack/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/product/rust-instruments-pack/#respond</comments>
+		<link>./../../../product/rust-instruments-pack/index.html</link>
+					<comments>./../../../product/rust-instruments-pack/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 10:04:07 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=240</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=240</guid>
 
 					<description><![CDATA[VỀ NỘI DUNG NÀY Reveal your inner musician in the Instrument Pack for Rust &#8211; a collection of 10 new musical instruments! Lay down a beat with the Drum Kit, belt out a tune on the Piano and become popular with your friends with the Cowbell! These new instruments use a new range of notes [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h2>VỀ NỘI DUNG NÀY</h2>
@@ -48,7 +48,7 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/rust-instruments-pack/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/rust-instruments-pack/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

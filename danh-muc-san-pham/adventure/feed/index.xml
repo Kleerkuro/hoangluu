@@ -10,7 +10,7 @@
 <channel>
 	<title>Adventure &#8211; Epic Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/adventure/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://kleerkuro.github.io/hoangluu</link>
+	<link>./../../../index.html</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 01 Jul 2021 10:25:51 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>The Forest</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/product/the-forest/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/product/the-forest/#respond</comments>
+		<link>./../../../product/the-forest/index.html</link>
+					<comments>./../../../product/the-forest/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:58:01 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=229</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=229</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -48,19 +48,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/the-forest/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/the-forest/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Crew™ 2</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/product/the-crew-2/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/product/the-crew-2/#respond</comments>
+		<link>./../../../product/the-crew-2/index.html</link>
+					<comments>./../../../product/the-crew-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:53:43 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=221</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=221</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -83,19 +83,19 @@ Join four different motorsports families from around the country: street and pro
 The world of The Crew® 2 is fueled by the need to share your personal accomplishments and unique moments with friends and others – break records and be a pioneer! Every time you achieve something, it will be saved as a new challenge for other players, while you will be encouraged to surpass the feats of others. Capture and share all of your best moments with the press of a button.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/the-crew-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/the-crew-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Raft</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/product/raft/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/product/raft/#respond</comments>
+		<link>./../../../product/raft/index.html</link>
+					<comments>./../../../product/raft/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:34:19 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=203</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=203</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -126,19 +126,19 @@ eating shark determined to end your voyage!</p>
 ● Fight! Defend your raft from the dangers of the ocean.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/raft/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/raft/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rust</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/product/rust/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/product/rust/#comments</comments>
+		<link>./../../../product/rust/index.html</link>
+					<comments>./../../../product/rust/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:42:13 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=112</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -151,19 +151,19 @@ eating shark determined to end your voyage!</p>
 <p>Do whatever it takes to survive.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/rust/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/rust/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Left 4 Dead 2</title>
-		<link>http://https://kleerkuro.github.io/hoangluu/product/left-4-dead-2/</link>
-					<comments>http://https://kleerkuro.github.io/hoangluu/product/left-4-dead-2/#respond</comments>
+		<link>./../../../product/left-4-dead-2/index.html</link>
+					<comments>./../../../product/left-4-dead-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:29:57 +0000</pubDate>
-				<guid isPermaLink="false">http://https://kleerkuro.github.io/hoangluu/?post_type=product&#038;p=100</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=100</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -187,7 +187,7 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kleerkuro.github.io/hoangluu/product/left-4-dead-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/left-4-dead-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
