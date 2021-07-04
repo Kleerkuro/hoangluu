@@ -7,17 +7,73 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Epic Store	</title>
+	Bình luận cho Epic Store 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Choose Your Game, Choose Your Way</description>
-	<lastBuildDate>Thu, 01 Jul 2021 10:22:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:09:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>
+		Phản hồi cho Tài khoản PlayerUnknown&#8217;s Battlegrounds PUBG bởi user1		</title>
+		<link>./../../product/tai-khoan-playerunknowns-battlegrounds-pubg/index.html#comment-6</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:09:15 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=87#comment-6</guid>
+
+					<description><![CDATA[game toan hack]]></description>
+			<content:encoded><![CDATA[<p>game toan hack</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho GTA Grand Theft Auto V: Premium Online Edition bởi user1		</title>
+		<link>./../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#comment-5</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:07:44 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=219#comment-5</guid>
+
+					<description><![CDATA[good]]></description>
+			<content:encoded><![CDATA[<p>good</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Rust bởi user1		</title>
+		<link>./../../product/rust/index.html#comment-4</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:07:34 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=112#comment-4</guid>
+
+					<description><![CDATA[pềct]]></description>
+			<content:encoded><![CDATA[<p>pềct</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho GTA Grand Theft Auto V: Premium Online Edition bởi user1		</title>
+		<link>./../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#comment-3</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:07:08 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=219#comment-3</guid>
+
+					<description><![CDATA[nice]]></description>
+			<content:encoded><![CDATA[<p>nice</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Phản hồi cho Rust bởi user1		</title>
 		<link>./../../product/rust/index.html#comment-2</link>

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Multiplayer &#8211; Epic Store</title>
+	<title>Multiplayer &#8211; Epic Store </title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/multiplayer/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Choose Your Game, Choose Your Way</description>
-	<lastBuildDate>Thu, 01 Jul 2021 10:27:04 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:09:15 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -57,7 +57,7 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 		<item>
 		<title>GTA Grand Theft Auto V: Premium Online Edition</title>
 		<link>./../../../product/gta-grand-theft-auto-v-premium-online-edition/index.html</link>
-					<comments>./../../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#respond</comments>
+					<comments>./../../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:49:05 +0000</pubDate>
@@ -81,7 +81,7 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../../product/gta-grand-theft-auto-v-premium-online-edition/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -92,9 +92,7 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:39:28 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_145e_9.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=215</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=215</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -174,9 +172,7 @@ eating shark determined to end your voyage!</p>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:42:13 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_145e_e.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -190,7 +186,7 @@ eating shark determined to end your voyage!</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../../product/rust/feed/index.html</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -233,7 +229,7 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 		<item>
 		<title>Tài khoản PlayerUnknown&#8217;s Battlegrounds PUBG</title>
 		<link>./../../../product/tai-khoan-playerunknowns-battlegrounds-pubg/index.html</link>
-					<comments>./../../../product/tai-khoan-playerunknowns-battlegrounds-pubg/index.html#respond</comments>
+					<comments>./../../../product/tai-khoan-playerunknowns-battlegrounds-pubg/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 07:04:52 +0000</pubDate>
@@ -249,7 +245,7 @@ Bạn sẽ thử dùng các vũ khí này để chống lại (hoặc nhập vai
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../../product/tai-khoan-playerunknowns-battlegrounds-pubg/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>

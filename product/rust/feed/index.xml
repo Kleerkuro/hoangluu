@@ -11,13 +11,27 @@
 	<atom:link href="http://localhost/myproject/wordpress/product/rust/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Choose Your Game, Choose Your Way</description>
-	<lastBuildDate>Thu, 01 Jul 2021 10:22:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:07:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>
+		Bởi: user1		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:07:34 +0000</pubDate>
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112#comment-4</guid>
+
+					<description><![CDATA[pềct]]></description>
+			<content:encoded><![CDATA[<p>pềct</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Bởi: user1		</title>
 		<link>./../index.html#comment-2</link>

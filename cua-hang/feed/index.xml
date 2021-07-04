@@ -1,5 +1,3 @@
-<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_13f7_0.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -10,11 +8,11 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; Epic Store</title>
+	<title>Sản phẩm &#8211; Epic Store </title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Choose Your Game, Choose Your Way</description>
-	<lastBuildDate>Sun, 04 Jul 2021 07:40:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:07:44 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -116,9 +114,7 @@ Súng có thể tháo-lắp ráp như súng thật,kích thước 1:1 (140cm)]]>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 10:17:11 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_13f7_c.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=251</guid>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=251</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -136,9 +132,7 @@ Súng có thể tháo-lắp ráp như súng thật,kích thước 1:1 (140cm)]]>
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 10:04:07 +0000</pubDate>
 		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_13f7_e.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_13f7_f.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_20cf_10.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
 		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=240</guid>
 
 					<description><![CDATA[VỀ NỘI DUNG NÀY Reveal your inner musician in the Instrument Pack for Rust &#8211; a collection of 10 new musical instruments! Lay down a beat with the Drum Kit, belt out a tune on the Piano and become popular with your friends with the Cowbell! These new instruments use a new range of notes [&#8230;]]]></description>
@@ -207,9 +201,7 @@ Súng có thể tháo-lắp ráp như súng thật,kích thước 1:1 (140cm)]]>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:53:43 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_13f7_12.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=221</guid>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=221</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -240,12 +232,12 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 		<item>
 		<title>GTA Grand Theft Auto V: Premium Online Edition</title>
 		<link>./../../product/gta-grand-theft-auto-v-premium-online-edition/index.html</link>
-					<comments>./../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#respond</comments>
+					<comments>./../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:49:05 +0000</pubDate>
 		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_13f7_14.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_20cf_17.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
 		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=219</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
@@ -266,7 +258,7 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../product/gta-grand-theft-auto-v-premium-online-edition/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -295,9 +287,9 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 <p dir="ltr"><strong>Q: Đây là tài khoản Counter-Strike (Acc Counter-Strike)?</strong></p>
 <p dir="ltr">A: Đây là sản phẩm CDKey kích hoạt bản quyền game <strong>Counter-Strike</strong>.</p>
 <p dir="ltr"><strong>Q: Làm thế nào để có tài khoản Counter-Strike (Acc Counter-Strike)?</strong></p>
-<p dir="ltr">A: Tài khoản <strong>Counter-Strike</strong> chính là tài khoản Steam. Bạn có thể tạo tài khoản Steam dễ và miễn phí tại <a href="https://store.steampowered.com/join/?&amp;snr=1_60_4__62"><u>ĐÂY</u></a>. Hướng dẫn tạo tài khoản bạn có thể tham khảo tại <a href="https://www.youtube.com/watch?v=TNoHgjFu7J0&amp;feature=youtu.be"><u>ĐÂY</u></a>.</p>
+<p dir="ltr">A: Tài khoản <strong>Counter-Strike</strong> chính là tài khoản Steam. Bạn có thể tạo tài khoản Steam dễ và miễn phí tại <a href="https://store.steampowered.com/join/?&amp;snr=1_60_4__62" target="_blank" rel="noopener"><u>ĐÂY</u></a>. Hướng dẫn tạo tài khoản bạn có thể tham khảo tại <a href="https://www.youtube.com/watch?v=TNoHgjFu7J0&amp;feature=youtu.be" target="_blank" rel="noopener"><u>ĐÂY</u></a>.</p>
 <p dir="ltr"><strong>Q: Sau khi có tài khoản làm thế nào để chơi game?</strong></p>
-<p dir="ltr">A: Sau khi bạn đã tạo được tài khoản theo hướng dẫn bên trên, bạn chỉ cần mua sản phẩm <strong>Counter-Strike</strong> này. Sau đó, bạn sẽ nhận game theo hướng dẫn sau: <a href="https://divineshop.vn/huong-dan-nhan-game-steam-moi"><u>https://divineshop.vn/huong-dan-nhan-game-steam-moi</u></a>. Tài khoản của bạn sẽ được kích hoạt bản quyền game <strong>Counter-Strike</strong> và tiến hành cài đặt bình thường sau đó bắt đầu trải nghiệm game.</p>
+<p dir="ltr">A: Sau khi bạn đã tạo được tài khoản theo hướng dẫn bên trên, bạn chỉ cần mua sản phẩm <strong>Counter-Strike</strong> này. Sau đó, bạn sẽ nhận game theo hướng dẫn sau: <a href="https://divineshop.vn/huong-dan-nhan-game-steam-moi" target="_blank" rel="noopener"><u>https://divineshop.vn/huong-dan-nhan-game-steam-moi</u></a>. Tài khoản của bạn sẽ được kích hoạt bản quyền game <strong>Counter-Strike</strong> và tiến hành cài đặt bình thường sau đó bắt đầu trải nghiệm game.</p>
 <p dir="ltr"><strong>Q: Sau khi mua sản phẩm game Counter-Strike ở máy này thì sang máy khác có chơi được không?</strong></p>
 <p dir="ltr">A: Có. Khi mua sản phẩm game là bạn mua cho tài khoản nên khi sang máy khác bạn chỉ cần đăng nhập tài khoản và cài đặt game là có thể chơi được như bình thường.</p>
 </div>

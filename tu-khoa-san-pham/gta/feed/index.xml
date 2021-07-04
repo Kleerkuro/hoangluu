@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>gta &#8211; Epic Store</title>
+	<title>gta &#8211; Epic Store </title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gta/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Choose Your Game, Choose Your Way</description>
-	<lastBuildDate>Thu, 01 Jul 2021 09:54:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:07:44 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,13 +22,11 @@
 	<item>
 		<title>GTA Grand Theft Auto V: Premium Online Edition</title>
 		<link>./../../../product/gta-grand-theft-auto-v-premium-online-edition/index.html</link>
-					<comments>./../../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#respond</comments>
+					<comments>./../../../product/gta-grand-theft-auto-v-premium-online-edition/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:49:05 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_14c4_4.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -48,7 +46,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../../product/gta-grand-theft-auto-v-premium-online-edition/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>

@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>mo hinh awp &#8211; Epic Store</title>
+	<title>mo hinh awp &#8211; Epic Store </title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/mo-hinh-awp/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Choose Your Game, Choose Your Way</description>
@@ -26,11 +26,7 @@
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Sun, 04 Jul 2021 04:27:12 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_14b8_5.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_14b8_6.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=306</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=306</guid>
 
 					<description><![CDATA[Là mẫu súng AWM bắn cơ đạn thạch cao cấp nhất hiện tại,cả về thiết kế chi tiết đến từng con ốc,cho tới lực bắn rất mạnh,tầm xa lên tới 20met
 Chất liệu nhựa nilon cao cấp cực bền,láng mịn,trọng lượng lớn hơn hẳn dòng súng chất liệu nhựa thông thường,tổng trọng lượng tính cả hộp lên tới 5kg.

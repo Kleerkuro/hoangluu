@@ -11,11 +11,39 @@
 	<atom:link href="http://localhost/myproject/wordpress/product/gta-grand-theft-auto-v-premium-online-edition/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Choose Your Game, Choose Your Way</description>
-	<lastBuildDate>Thu, 01 Jul 2021 09:54:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:07:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: user1		</title>
+		<link>./../index.html#comment-5</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:07:44 +0000</pubDate>
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219#comment-5</guid>
+
+					<description><![CDATA[good]]></description>
+			<content:encoded><![CDATA[<p>good</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: user1		</title>
+		<link>./../index.html#comment-3</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:07:08 +0000</pubDate>
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219#comment-3</guid>
+
+					<description><![CDATA[nice]]></description>
+			<content:encoded><![CDATA[<p>nice</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
