@@ -26,9 +26,7 @@
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:58:01 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql435c_2167_5.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=229</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=229</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
