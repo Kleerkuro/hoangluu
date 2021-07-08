@@ -95,7 +95,9 @@ The world of The Crew® 2 is fueled by the need to share your personal accomplis
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 09:49:05 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql3c5c_69d_9.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=219</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>
@@ -206,7 +208,11 @@ eating shark determined to end your voyage!</p>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:42:13 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql3c5c_69d_f.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql3c5c_69d_10.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=112</guid>
 
 					<description><![CDATA[<h2>Khuyến mãi liên quan</h2>
 <ul>

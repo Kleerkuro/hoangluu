@@ -26,7 +26,9 @@
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Sun, 04 Jul 2021 07:40:38 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=325</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql3c5c_6b0_5.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=325</guid>
 
 					<description><![CDATA[– Mô hình súng lục Desert Eagle được làm bằng <strong>kim loại và sơn tĩnh điện,tỷ lệ 1:1</strong> so với súng thật (23cm x 12cm).
 
@@ -68,7 +70,9 @@
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Sun, 04 Jul 2021 04:48:32 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=313</guid>
+		<br />
+<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'C:\xampp\tmp\#sql3c5c_6b0_9.MAI' is read only in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=313</guid>
 
 					<description><![CDATA[Đây là mẫu súng đồ chơi AK47 tỷ lệ 1:1 (85cm) thực sự,mặc dù trên thị trường có rất nhiều mẫu súng đồ chơi AK47 nhưng đa phần chỉ là 75cm trở xuống.
 Sản phẩm có độ chi tiết cực cao,giống súng thật tới 95%,rất phù hợp để quay phim,chụp ảnh,sưu tầm,trưng bày,…
@@ -93,9 +97,7 @@ Vỏ súng được làm bằng nhựa cao cấp ABS-PP (Nhựa chuyên dùng đ
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Sun, 04 Jul 2021 04:27:12 +0000</pubDate>
-		<br />
-<b>Warning</b>:  mysqli_query(): (HY000/6): Error on delete of 'C:\xampp\tmp\#sql3c5c_510_b.MAD' (Errcode: 13 &quot;Permission denied&quot;) in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
-		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=306</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=306</guid>
 
 					<description><![CDATA[Là mẫu súng AWM bắn cơ đạn thạch cao cấp nhất hiện tại,cả về thiết kế chi tiết đến từng con ốc,cho tới lực bắn rất mạnh,tầm xa lên tới 20met
 Chất liệu nhựa nilon cao cấp cực bền,láng mịn,trọng lượng lớn hơn hẳn dòng súng chất liệu nhựa thông thường,tổng trọng lượng tính cả hộp lên tới 5kg.
